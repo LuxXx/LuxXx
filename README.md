@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently building FinTech products at NYALA Digital Asset AG. I love computer science and mathematics especially stochastics.
 
 *   🌍  I'm based in Berlin
-*   🖥️  See my portfolio at [tdbr.de](http://tdbr.de/)
-*   🚀  I'm currently working on [NYALA Digital Asset AG](http://www.tdbr.de/projects)
+*   🖥️  See my portfolio at [tdbr.de](https://www.tdbr.de/projects/)
+*   🚀  I'm currently working on [NYALA Digital Asset AG](https://nyala.de/)
 *   🤝  I'm open to collaborating on bundestagwatch
+
+
 <a href="https://www.twitter.com/luxdav" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/luxdav?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/LuxXx" target="_blank" rel="noreferrer"><img
