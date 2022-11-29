@@ -9,10 +9,23 @@ I am currently building FinTech products at NYALA Digital Asset AG. I love compu
 *   🤝  I'm open to collaborating on bundestagwatch
 
 
+
 <a href="https://www.twitter.com/luxdav" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/luxdav?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/LuxXx" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/LuxXx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+
+### Projects
+
+
+I am running multiple websites & MicroSaas
+- [bundestagwatch.de](https://bundestagwatch.de/)
+- [eigengeschaefte.de](https://eigengeschaefte.de/)
+- [komputee.com](https://komputee.com/)
+- [timeseries.tools](https://timeseries.tools/)
+- and some smaller ones
 
 ### Skills 
 <p align="left">
@@ -37,3 +50,6 @@ I am currently building FinTech products at NYALA Digital Asset AG. I love compu
 <a href="http://www.github.com/LuxXx"><img src="https://github-readme-stats.vercel.app/api?username=LuxXx&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuxXx's GitHub stats" /></a>
 
 <a href="https://github.com/LuxXx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxXx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
