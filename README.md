@@ -20,7 +20,7 @@ I am currently building FinTech products at NYALA Digital Asset AG. I love compu
 ### Projects
 
 
-I am running multiple websites & MicroSaas
+I am running multiple websites & MicroSaaS
 - [bundestagwatch.de](https://bundestagwatch.de/)
 - [eigengeschaefte.de](https://eigengeschaefte.de/)
 - [komputee.com](https://komputee.com/)
