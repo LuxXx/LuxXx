@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently building FinTech products at NYALA Digital Asset AG. I love computer science and mathematics especially stochastics.
 
 *   🌍  I'm based in Berlin
-*   🖥️  See my portfolio at [tdbr.de](https://www.tdbr.de/projects/)
-*   🚀  I'm currently working on [NYALA Digital Asset AG](https://nyala.de/)
+*   🖥️  See my portfolio at [tdbr.de](https://tdbr.de/projects/)
+*   🏢  I'm currently working at [NYALA Digital Asset AG](https://nyala.de/)
 *   🤝  I'm open to collaborating on bundestagwatch
+*   🚀  I'm bootstrapping [timeseries.tools](https://timeseries.tools/)
 
 
 
