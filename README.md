@@ -5,7 +5,7 @@ I am currently building FinTech products at NYALA Digital Asset AG. I love compu
 
 *   🌍  I'm based in Berlin
 *   🖥️  See my portfolio at [tdbr.de](https://tdbr.de/projects/)
-*   🏢  I'm currently working at [NYALA Digital Asset AG](https://nyala.de/)
+*   🏢  I'm currently working at [bling](https://www.bling.de/)
 *   🤝  I'm open to collaborating on bundestagwatch
 *   🚀  I'm bootstrapping [timeseries.tools](https://timeseries.tools/)
 
