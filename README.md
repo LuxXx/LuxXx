@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tim David
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tim David
 =================================================================================================================================
 
-I am currently building FinTech products at NYALA Digital Asset AG. I love computer science and mathematics especially stochastics.
+I am currently building FinTech products at bling. I love computer science and mathematics especially stochastics.
 
 *   🌍  I'm based in Berlin
 *   🖥️  See my portfolio at [tdbr.de](https://tdbr.de/projects/)
