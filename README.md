@@ -22,6 +22,7 @@ I am currently building FinTech products at bling. I love computer science and m
 
 
 I am running multiple websites & MicroSaaS
+- [dectus.de](https://dectus.de/)
 - [bundestagwatch.de](https://bundestagwatch.de/)
 - [fzmanager.de](https://fzmanager.de/)
 - [eigengeschaefte.de](https://eigengeschaefte.de/)
