@@ -7,7 +7,7 @@ I am currently building FinTech products at bling. I love computer science and m
 *   🖥️  See my portfolio at [tdbr.de](https://tdbr.de/projects/)
 *   🏢  I'm currently working at [bling](https://www.bling.de/)
 *   🤝  I'm open to collaborating on bundestagwatch
-*   🚀  I'm bootstrapping [timeseries.tools](https://timeseries.tools/)
+*   🚀  I'm bootstrapping [dectus.de](https://dectus.de/)
 
 
 
